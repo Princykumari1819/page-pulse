@@ -137,5 +137,4 @@ If I had more time, I would like to:
 ---
 
 ## Author
-
-**Princy Kumari**
+Princy Kumari
